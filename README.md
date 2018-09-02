@@ -2,6 +2,3 @@
 Samsung AI Challenge 2018
 
 ### Reference
-
-License
--------
