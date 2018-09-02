@@ -1,5 +1,7 @@
 # Samsung AI Challenge 2018
 
+과거 교통사고 데이터를 분석하여 미래 교통사고 예측하기
+
 ## Requirements
 - TensorFlow-GPU 1.5.0
 - Numpy 1.14.2
