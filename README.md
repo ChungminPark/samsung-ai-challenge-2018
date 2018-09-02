@@ -60,4 +60,4 @@ From: https://research.samsung.com/aichallenge/data
   https://medium.com/data-design/visiting-categorical-features-and-encoding-in-decision-trees-53400fa65931
 
 ## Contributors
-<img src="https://avatars3.githubusercontent.com/u/15935262?s=400&v=4" width="100px;" /><br /><sub><b>ChungminPark</b></sub>
+<img src="https://avatars3.githubusercontent.com/u/15935262?s=400&v=4" width="100px;" /><br /><sub><b>[ChungminPark](https://github.com/ChungminPark)</b></sub>
