@@ -50,3 +50,9 @@ From: https://research.samsung.com/aichallenge/data
 12 | L | 신호위반
 ... | ... | ...
 
+## Reference
+- Last layer activation and loss function
+  https://www.dlology.com/blog/how-to-choose-last-layer-activation-and-loss-function/
+- Encoding Type
+  https://medium.com/data-design/visiting-categorical-features-and-encoding-in-decision-trees-53400fa65931
+
